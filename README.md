@@ -12,3 +12,8 @@
 * Resistors
 * Breadboard
 * Button
+
+
+## Demo video presenting gameplay and menu
+
+[Link to the video!](https://youtu.be/TT73e3caSRI)
