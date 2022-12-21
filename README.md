@@ -34,3 +34,5 @@ The menu contains the followings:
 ## Demo video presenting gameplay and menu 🎬
 
 [Link to the video!](https://youtu.be/TT73e3caSRI)
+
+[Link to the Code](https://github.com/Giani2001/Snake-Arduino/blob/main/Snake/Snake.ino)
