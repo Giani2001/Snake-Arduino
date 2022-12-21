@@ -889,10 +889,10 @@ void moveHighScore(){
       joyYMoved = true; 
   } 
   if (yValue > maxThresHold && !joyYMoved && buttonPressedMenu && menuIndex == 1) { 
-      if( highscoreIndex <4){
+      
         
         highscoreIndex = (highscoreIndex+1)%5;
-      }
+      
         okHighScore = 0;
       mute = 1;
       soundEffect();
